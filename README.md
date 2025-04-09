@@ -1,7 +1,9 @@
 # 👋 ¡Hola! Soy [Marcela Ricaurte]  
 
 ### 💻 Sobre mí  
-Soy estudiante de **Análisis y Desarrollo de Software** con una pasión por la tecnología y la calidad del software. Actualmente estoy cursando un **Bootcamp en QA Engineer** con **Triple Ten**, donde he aprendido habilidades clave como pruebas manuales, automatización y metodologías ágiles.  
+QA engineer con un fuerte interés en el área de pruebas y aseguramiento de la calidad (QA). Cuento con una sólida base en análisis de requerimientos, creación de casos de prueba, desarrollo de listas de comprobación, pruebas de aplicaciones web y móviles, pruebas automatizadas, informes de defectos, DevOps, API, Postman y JIRA. Mi enfoque está en garantizar la calidad y eficiencia del software mediante la mejora continua de los procesos de testing. Busco contribuir al éxito de los proyectos optimizando la calidad del software, mientras perfecciono mis habilidades en QA.
+
+Adicionalmente, manejo metodologías ágiles como Scrum, aplicando buenas prácticas de organización de tareas, comunicación asertiva, la importancia del trabajo en equipo para alcanzar objetivos comunes y resolución de problemas. Estas habilidades, me han permitido adaptarme a entornos cambiantes, priorizar entregas, mantener una gestión efectiva del tiempo y avanzar de manera autónoma en cada sprint de forma estructurada, eficiente y ágil. Me encanta estar al día de los últimos avances y estoy entusiasmada por seguir desarrollándome en el sector tecnológico, especialmente en el área de QA y testing de software. 
 
 Me gusta resolver problemas, aprender continuamente y contribuir a proyectos que generen impacto. ¡La calidad siempre es mi objetivo principal!  
 
@@ -29,7 +31,7 @@ He completado 7 sprints enfocados en las siguientes áreas clave del aseguramien
 
 ### 📫 ¡Conecta conmigo!  
 - **LinkedIn:** [https://www.linkedin.com/in/marcelaricaurte/](#)  
-- **Email:** [mcricaurte.sierra@gmail.com](#)  
+- **Email:** [marricaurte@gmail.com](#)  
 
 ---
 
