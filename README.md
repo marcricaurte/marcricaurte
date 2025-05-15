@@ -30,7 +30,7 @@ He completado 7 sprints enfocados en las siguientes áreas clave del aseguramien
 ---
 
 ### 📫 ¡Conecta conmigo!  
-- **LinkedIn:** [https://www.linkedin.com/in/marcelaricaurte/](#)  
+- **LinkedIn:** [https://www.linkedin.com/in/marcelaricaurte-qaengineer/](#)  
 - **Email:** [marricaurte@gmail.com](#)  
 
 ---
